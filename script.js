@@ -43,29 +43,33 @@
 //     }
 
 
-//3 задача - :) :)
-   var i = 45; 
-   while(i <= 670){
-     if (i % 10 === 0){
-       console.log(i);
-   }
-   i += 5;
-  }
+//3 задача - :) :) - верное
+  //  var i = 45; 
+  //  while(i <= 670){
+  //    if (i % 10 === 0){
+  //      console.log(i);
+  //  }
+  //  i += 5;
+  // }
 
-//   var i = 45; 
-//   while(i <= 670){
-//       console.log(i, i % 10 === 0);
-//         i += 5;
-  
-//  }
+
   
 
-//4 задача - :) :)
+//4 задача - :) :) не верно
 //  var i = 67; 
 //    while(i >= 42){
 //        console.log(i, i % 2 !== 0);
 //          i -= 1;
 //    }
+
+//4 задача - не верно
+//  var i = 67; 
+//    while(i >= 42){
+// if (i % 2 !== 0){
+//        console.log(i);
+//     }
+//   i -= 1;
+//}
 
 
 //for(var i = 0; i <= 10; i +=4) {
@@ -113,13 +117,3 @@
 //   Degrees(18);
 //   Degrees(19);
 //   Degrees(20);
-
-// задача 1 (2)
-// function Degrees(start, end){
-// var i;
-// for(i = start; i <= end; i+=1) {
-//   if(i*1.8+32); }
-// }
-
-
-// Degrees (-100, 100);
